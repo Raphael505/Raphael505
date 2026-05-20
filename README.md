@@ -10,4 +10,4 @@ Estudante Técnico em Inteligência Artificial no Senac-DF, focado no desenvolvi
 ## 📚 Projetos Recentes
 Atualmente estou documentando minhas situações de aprendizagem práticas e estudos de Machine Learning aplicados aqui no meu perfil.
 
-📫 Como me encontrar: [www.linkedin.com/in/enzo-rafael-b87075385]
+📫 Como me encontrar: [www.linkedin.com/in/enzo-raphael-b87075385]
