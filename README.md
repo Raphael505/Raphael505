@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Enzo Raphael! 👋
 
-<!--
-**Raphael505/Raphael505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante Técnico em Inteligência Artificial no Senac-DF, focado no desenvolvimento de modelos preditivos e análise de dados.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, SQL
+- **Bibliotecas/Frameworks:** Pandas, NumPy, Scikit-Learn (Machine Learning)
+- **Ferramentas:** Jupyter Notebook, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projetos Recentes
+Atualmente estou documentando minhas situações de aprendizagem práticas e estudos de Machine Learning aplicados aqui no meu perfil.
+
+📫 Como me encontrar: [www.linkedin.com/in/enzo-rafael-b87075385]
