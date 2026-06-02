@@ -43,12 +43,12 @@
 
 ### 📊 Minhas Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael505&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael505&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphael505&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphael505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Raphael505&theme=tokyonight&hide_border=true)
 ---
-
 ### 📫 Como me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-raphael-b87975385/)
